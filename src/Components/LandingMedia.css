@@ -750,15 +750,17 @@
   .LandingBottomLeftIn .LandingTopLeftHead1 {
     font-size: 22px;
     margin-bottom: 15px;
-    width: 90%;
-    margin-left: 5%;
+    width: 100%;
+    /* margin-left: 5%; */
+    text-align: center;
   }
   
   .LandingBottomLeftIn .LandingTopLeftText1 {
     font-size: 13px;
     margin-bottom: 20px;
-    width: 90%;
-    margin-left: 5%;
+    width: 100%;
+    text-align: center;
+    /* margin-left: 5%; */
   }
   
   .LandingBottomLeftBottom {
